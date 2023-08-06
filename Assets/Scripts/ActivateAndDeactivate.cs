@@ -10,7 +10,7 @@ public class ActivateAndDeactivate : MonoBehaviour
         objectToActivateDeactivate.SetActive(true);
 
         // Call a method to deactivate the game object after 1 second
-        Invoke("DeactivateGameObject", 1f);
+        Invoke("DeactivateGameObject", 2f);
     }
 
     private void DeactivateGameObject()

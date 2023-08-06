@@ -227,6 +227,67 @@ PrefabInstance:
       propertyPath: nextScene
       value: 15
       objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[0].line
+      value: I can't believe how selfish you are, always needing attention and support.
+        I don't have time for my own problems because I'm too busy taking care of
+        you!
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[1].line
+      value: (Feeling guilty) I'm sorry, Mom. I don't mean to burden you.
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[2].line
+      value: 'Well, you are burdening me! I don''t have time to deal with my own
+        feelings because I''m too busy trying to fix yours. I sacrifice everything
+        for you, and this is how you repay me?
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[3].line
+      value: (Feeling responsible for the parent's emotions) I'll try to handle things
+        on my own.
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[4].line
+      value: That's right; you should handle it yourself. I have no time for self-care;
+        I have to be strong for you. It's always about your needs, never mine.
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[5].line
+      value: (Feeling even more guilty and alone) I'm sorry, Mom. I'll try to be
+        less of a bother.
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[0].characterName
+      value: Vexly
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[1].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[2].characterName
+      value: Vexly
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[3].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[4].characterName
+      value: Vexly
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[5].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
     - target: {fileID: 4476022140025950346, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -314,6 +375,10 @@ PrefabInstance:
     - target: {fileID: 4476022140025950390, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
       propertyPath: m_Name
       value: WrongWayCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022140292335705, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

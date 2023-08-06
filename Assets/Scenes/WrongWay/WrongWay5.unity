@@ -135,6 +135,72 @@ PrefabInstance:
       propertyPath: nextScene
       value: 14
       objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[0].line
+      value: 'You need to step up your game! Your grades are slipping, and you''re
+        not putting in enough effort. I expect you to excel in everything, no matter
+        what!
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[1].line
+      value: But Mom, I'm really struggling right now. I can't focus, and everything
+        feels overwhelming.
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[2].line
+      value: (Growing impatient) Stop making excuses! I don't want to hear about
+        your struggles. You're just not trying hard enough. You used to be such a
+        good student, and now look at you!
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[3].line
+      value: (Feeling pressured and defeated) I'm sorry, Mom. I'll try my best...
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[4].line
+      value: Your best isn't good enough! I don't care about your emotions; you need
+        to get your act together and perform like you used to. You're embarrassing
+        me with these grades.
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[5].line
+      value: (Feeling more stressed and hopeless) I'll do whatever it takes to make
+        you proud.
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[0].characterName
+      value: Zephyr
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[1].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[2].characterName
+      value: Zephyr
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[3].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[4].characterName
+      value: Zephyr
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[5].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022139250946004, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4476022140025950346, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
       propertyPath: m_Pivot.x
       value: 0

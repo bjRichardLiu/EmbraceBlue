@@ -18,7 +18,7 @@ public class DialogueSystem : MonoBehaviour
     public TMP_Text dialogueText;
     public DialogueLine[] dialogueLines;
     public bool backToMenu;
-    public float textSpeed = 0.05f;
+    public float textSpeed = 0.005f;
 
     private int currentLineIndex = 0;
     private Coroutine displayCoroutine;

@@ -131,6 +131,77 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.size
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[0].line
+      value: I've noticed that I've been feeling overwhelmed lately while trying
+        to support you, and it's affecting my well-being too. I want to make sure
+        I can be there for you in the best way possible, but I need to take care
+        of myself as well.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[1].line
+      value: (Concerned) Mom, you don't have to do everything on your own. I'm sorry
+        if I've added to your stress.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[2].line
+      value: Thank you for understanding, Michael. It's essential for both of us
+        to prioritize self-care and mental well-being. Let's work together to find
+        a balance.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[3].line
+      value: How can I help?
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[4].line
+      value: Your understanding and empathy are already a tremendous help. It's important
+        for me to seek professional support too, like talking to a therapist or counselor,
+        so I have someone to talk to about my feelings and stress.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[5].line
+      value: I support you in taking care of yourself, Mom. We can navigate through
+        this together.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[6].line
+      value: That means a lot to me, Michael. I also need to set aside time for activities
+        that help me relax and recharge. This way, I can be in a better state to
+        support you.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[0].characterName
+      value: Vexly
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[1].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[2].characterName
+      value: Vexly
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[3].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[4].characterName
+      value: Vexly
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[5].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[6].characterName
+      value: Vexly
+      objectReference: {fileID: 0}
     - target: {fileID: 3812093933345418663, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
       propertyPath: m_Name
       value: GoodWayCanvas
@@ -217,6 +288,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3812093933345418667, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933454099526, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []

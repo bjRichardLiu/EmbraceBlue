@@ -131,6 +131,91 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.size
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[0].line
+      value: I've noticed that you've been having a tough time lately, especially
+        with your academics. Is everything okay?
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[1].line
+      value: I'm really finding it hard to concentrate, Mom. I feel overwhelmed,
+        and it's affecting my studies.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[2].line
+      value: I'm sorry to hear that you're going through this. Your well-being is
+        the most important thing to me. Let's talk to your teachers and see if there's
+        a way we can adjust your workload to accommodate your needs.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[3].line
+      value: Really? You won't be disappointed in me?
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[4].line
+      value: I could never be disappointed in you for struggling with your mental
+        health. It's essential to take care of yourself, and I want to support you
+        in any way I can.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[5].line
+      value: Thanks, Mom. I appreciate that.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[6].line
+      value: Of course. Your happiness and health come first. We'll work together
+        to create a plan that helps you manage your emotions while also staying on
+        track academically.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[7].line
+      value: I love you, Mom.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[8].line
+      value: I love you too, sweetheart. Let's take this one step at a time, and
+        I know you'll overcome any challenges that come your way.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[0].characterName
+      value: Zephyr
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[1].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[2].characterName
+      value: Zephyr
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[3].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[4].characterName
+      value: Zephyr
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[5].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[6].characterName
+      value: Zephyr
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[7].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[8].characterName
+      value: Zephyr
+      objectReference: {fileID: 0}
     - target: {fileID: 3812093933345418663, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
       propertyPath: m_Name
       value: GoodWayCanvas
@@ -217,6 +302,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3812093933345418667, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093934429662401, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []

@@ -193,6 +193,10 @@ PrefabInstance:
       propertyPath: dialogueLines.Array.data[5].characterName
       value: Aetherwyn
       objectReference: {fileID: 0}
+    - target: {fileID: 4476022139250946004, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4476022140025950346, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
       propertyPath: m_Pivot.x
       value: 0
