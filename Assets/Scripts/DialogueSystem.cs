@@ -22,6 +22,7 @@ public class DialogueSystem : MonoBehaviour
 
     private int currentLineIndex = 0;
     private Coroutine displayCoroutine;
+    private bool canProceed = true;
 
     void Start()
     {
@@ -32,10 +33,12 @@ public class DialogueSystem : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0))
         {
-            if (displayCoroutine != null)
+            if (displayCoroutine != null && !canProceed)
             {
+                // If the current line hasn't been fully displayed, display it fully
                 StopCoroutine(displayCoroutine);
                 dialogueText.text = dialogueLines[currentLineIndex].line;
+                canProceed = true;
             }
             else
             {
@@ -51,6 +54,7 @@ public class DialogueSystem : MonoBehaviour
             characterNameText.text = dialogueLines[currentLineIndex].characterName;
             dialogueText.text = "";
             displayCoroutine = StartCoroutine(AnimateText(dialogueLines[currentLineIndex].line));
+            canProceed = false;
         }
         else
         {
@@ -61,10 +65,12 @@ public class DialogueSystem : MonoBehaviour
 
     void ShowNextCharacter()
     {
-        if (displayCoroutine != null)
+        if (displayCoroutine != null && !canProceed)
         {
+            // If the current line hasn't been fully displayed, display it fully
             StopCoroutine(displayCoroutine);
             dialogueText.text = dialogueLines[currentLineIndex].line;
+            canProceed = true;
         }
         else
         {
@@ -85,6 +91,7 @@ public class DialogueSystem : MonoBehaviour
             dialogueText.text = line.Substring(0, i + 1);
             yield return new WaitForSeconds(textSpeed);
         }
+        canProceed = true; // Set the flag to allow proceeding to the next line
         displayCoroutine = null;
     }
 

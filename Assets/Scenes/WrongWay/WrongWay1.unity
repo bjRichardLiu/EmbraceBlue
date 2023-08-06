@@ -231,6 +231,104 @@ PrefabInstance:
       propertyPath: targetSceneIndex
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.size
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[0].line
+      value: Hey, I noticed you've been acting a bit down lately. What's up with
+        that?
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[1].line
+      value: 'Oh, it''s nothing. Just feeling a bit tired and not in the mood to
+        hang out with friends.
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[2].line
+      value: Ah, don't worry about it. It's probably just typical teenage mood swings.
+        You'll get over it soon enough. Now, let's talk about your grades in school.
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[3].line
+      value: I don't know, Dad. It's not just a passing mood. I've been feeling really
+        down for a while now.
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[4].line
+      value: Come on, it can't be that bad. You're young, and everyone goes through
+        ups and downs. You just need to shake it off and get back to your normal
+        self.
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[5].line
+      value: But it's not that easy. I feel so alone and overwhelmed.
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[6].line
+      value: You're just being dramatic. Life isn't always easy, and you need to
+        learn to handle your problems without making a big fuss about it. Besides,
+        I've got my own issues to deal with, and I can't be bothered with this right
+        now.
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[7].line
+      value: (Feeling dismissed and hurt) I thought you would understand...
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[8].line
+      value: Look, I'm not saying your feelings don't matter, but you're blowing
+        this out of proportion. It's probably just some teenage angst, and it will
+        pass. Now, let's talk about your schoolwork. You need to focus on improving
+        your grades.
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[9].line
+      value: (Feeling invalidated and alone) Okay, fine...
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[0].characterName
+      value: Vexly
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[1].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[2].characterName
+      value: Vexly
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[3].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[4].characterName
+      value: Vexly
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[5].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[6].characterName
+      value: Vexly
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[7].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[8].characterName
+      value: Vexly
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[9].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
     - target: {fileID: 4476022140025950346, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -318,6 +416,10 @@ PrefabInstance:
     - target: {fileID: 4476022140025950390, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
       propertyPath: m_Name
       value: WrongWayCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022140292335705, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

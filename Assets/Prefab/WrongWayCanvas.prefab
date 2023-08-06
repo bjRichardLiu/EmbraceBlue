@@ -94,9 +94,7 @@ MonoBehaviour:
   characterNameText: {fileID: 4476022139297534364}
   dialogueText: {fileID: 4476022139559197001}
   dialogueLines: []
-  useLoadingScene: 1
-  loadingSceneIndex: 9
-  targetSceneIndex: 0
+  backToMenu: 0
   textSpeed: 0.05
 --- !u!1 &4476022138755338856
 GameObject:
@@ -497,7 +495,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 1
-  m_HorizontalAlignment: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0

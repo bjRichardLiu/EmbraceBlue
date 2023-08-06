@@ -131,6 +131,86 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.size
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[0].line
+      value: Hey, I noticed you've been spending more time alone lately, and you
+        seem to have lost interest in your hobbies and friends. Is there something
+        bothering you?
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[1].line
+      value: I don't know. I just feel really sad and tired all the time. I can't
+        seem to enjoy things like I used to.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[2].line
+      value: I'm sorry to hear that you're feeling this way. I want you to know that
+        I'm here for you, and I care about what you're going through. You don't have
+        to face it alone. Have you considered talking to someone about how you're
+        feeling?
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[3].line
+      value: I don't know who to talk to. It feels like nobody would understand.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[4].line
+      value: It's completely normal to feel that way, but talking to someone can
+        be helpful. Maybe we could find a professional counselor or therapist for
+        you to speak with. They can offer guidance and support.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[5].line
+      value: I guess it couldn't hurt to try.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[6].line
+      value: 'That''s the spirit. Remember, your feelings are valid, and I love you
+        no matter what. Let''s work together to find someone you feel comfortable
+        talking to. In the meantime, know that I''m here whenever you need to talk.
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[7].line
+      value: Thanks, Dad. It means a lot to me.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[0].characterName
+      value: Vexly
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[1].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[2].characterName
+      value: Vexly
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[3].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[4].characterName
+      value: Vexly
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[5].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[6].characterName
+      value: Vexly
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[7].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
     - target: {fileID: 3812093933345418663, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
       propertyPath: m_Name
       value: GoodWayCanvas
@@ -217,6 +297,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3812093933345418667, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933454099526, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
