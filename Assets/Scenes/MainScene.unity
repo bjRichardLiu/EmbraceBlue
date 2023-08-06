@@ -225,7 +225,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6826012501997809513, guid: 07d3dfe08bd1f45eb89ed99941824992, type: 3}
       propertyPath: m_text
-      value: Isolating the Child
+      value: Isolate the Child
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -342,7 +342,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6826012501997809513, guid: 07d3dfe08bd1f45eb89ed99941824992, type: 3}
       propertyPath: m_text
-      value: Blaming and Criticizing
+      value: Blame & Criticize
       objectReference: {fileID: 0}
     - target: {fileID: 6826012501997809513, guid: 07d3dfe08bd1f45eb89ed99941824992, type: 3}
       propertyPath: m_fontSize
@@ -556,7 +556,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6826012501997809513, guid: 07d3dfe08bd1f45eb89ed99941824992, type: 3}
       propertyPath: m_text
-      value: Minimizing Feelings
+      value: Minimize Feelings
       objectReference: {fileID: 0}
     - target: {fileID: 6826012501997809513, guid: 07d3dfe08bd1f45eb89ed99941824992, type: 3}
       propertyPath: m_fontSize
@@ -891,7 +891,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6826012501997809513, guid: 07d3dfe08bd1f45eb89ed99941824992, type: 3}
       propertyPath: m_text
-      value: Overburdening Child
+      value: Overburden Child
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1081,7 +1081,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6826012501997809513, guid: 07d3dfe08bd1f45eb89ed99941824992, type: 3}
       propertyPath: m_text
-      value: Ignoring Self-Care
+      value: Ignore Self-Care
       objectReference: {fileID: 0}
     - target: {fileID: 6826012501997809513, guid: 07d3dfe08bd1f45eb89ed99941824992, type: 3}
       propertyPath: m_fontSize
@@ -1216,7 +1216,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6826012501997809513, guid: 07d3dfe08bd1f45eb89ed99941824992, type: 3}
       propertyPath: m_text
-      value: Ignoring the Signs
+      value: Ignore Signs
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
