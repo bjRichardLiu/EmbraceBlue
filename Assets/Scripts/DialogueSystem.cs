@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using System.Collections;
-using TMPro; // Import the TextMeshPro namespace
+using TMPro;
 
 public class DialogueSystem : MonoBehaviour
 {
@@ -17,7 +17,7 @@ public class DialogueSystem : MonoBehaviour
     public TMP_Text characterNameText;
     public TMP_Text dialogueText;
     public DialogueLine[] dialogueLines;
-    public string nextSceneName;
+    public bool backToMenu;
     public float textSpeed = 0.05f;
 
     private int currentLineIndex = 0;
@@ -55,7 +55,7 @@ public class DialogueSystem : MonoBehaviour
         else
         {
             // If there are no more dialogue lines, jump to the specified scene
-            JumpToScene(nextSceneName);
+            JumpToScene();
         }
     }
 
@@ -88,8 +88,16 @@ public class DialogueSystem : MonoBehaviour
         displayCoroutine = null;
     }
 
-    void JumpToScene(string sceneName)
+    void JumpToScene()
     {
-        SceneManager.LoadScene(sceneName);
+        if (backToMenu)
+        {
+            SceneManager.LoadScene(2);
+        }
+        else
+        {
+            int index = SceneManager.GetActiveScene().buildIndex;
+            SceneManager.LoadScene(index + 6);
+        }
     }
 }
