@@ -131,6 +131,95 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.size
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[0].line
+      value: 'I''ve noticed that you''ve been feeling down and unmotivated lately.
+        Is everything okay?
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[1].line
+      value: I don't know, Mom. I just don't feel like doing anything. It's like
+        everything is too much for me.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[2].line
+      value: I'm sorry to hear that you're feeling this way. I want you to know that
+        I care about you, and I'm here to listen and support you. You're not lazy,
+        and you're not seeking attention. It's okay to feel overwhelmed sometimes.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[3].line
+      value: But I can't help it. I wish I could be more like before.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[4].line
+      value: It's completely normal to have ups and downs, and it's okay to struggle.
+        Depression is a real mental health condition, and it's essential to take
+        it seriously. Let's figure this out together. Have you considered talking
+        to someone, like a therapist or counselor?
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[5].line
+      value: I don't know if it would help.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[6].line
+      value: Seeking professional help can be beneficial. They can offer tools and
+        support to cope with what you're going through. In the meantime, I'm here
+        to listen and support you every step of the way.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[7].line
+      value: Thanks, Mom. It means a lot to me that you're not blaming me for feeling
+        this way.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[8].line
+      value: Of course not. It's not your fault. We'll get through this together.
+        And remember, I love you unconditionally, no matter what.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[0].characterName
+      value: Zephyr
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[1].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[2].characterName
+      value: Zephyr
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[3].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[4].characterName
+      value: Zephyr
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[5].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[6].characterName
+      value: Zephyr
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[7].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[8].characterName
+      value: Zephyr
+      objectReference: {fileID: 0}
     - target: {fileID: 3812093933345418663, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
       propertyPath: m_Name
       value: GoodWayCanvas

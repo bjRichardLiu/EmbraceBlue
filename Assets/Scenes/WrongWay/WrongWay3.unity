@@ -135,6 +135,64 @@ PrefabInstance:
       propertyPath: nextScene
       value: 12
       objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[0].line
+      value: I've noticed you've been spending a lot of time alone lately. It's for
+        the best. I don't want you hanging out with those friends of yours. They're
+        a bad influence.
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[1].line
+      value: But Mom, they're my friends, and we've always had fun together.
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[2].line
+      value: Fun or not, they're not good for you. I won't have you getting into
+        trouble because of them. You need to focus on your studies and stay away
+        from distractions.
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[3].line
+      value: (Feeling trapped and alone) But I feel so lonely without them. I don't
+        know who else to talk to.
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[4].line
+      value: You'll get used to it. Besides, it's better to be alone than in bad
+        company. Just stay home and study as I told you.
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[5].line
+      value: (Feeling even more isolated) Okay...
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[0].characterName
+      value: Zephyr
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[1].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[2].characterName
+      value: Zephyr
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[3].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[4].characterName
+      value: Zephyr
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[5].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
     - target: {fileID: 4476022140025950346, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
       propertyPath: m_Pivot.x
       value: 0

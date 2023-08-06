@@ -223,6 +223,73 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.size
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[0].line
+      value: I've noticed you've been spending more time alone lately. Is everything
+        okay?
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[1].line
+      value: Not really, Mom. I just don't feel like being around people.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[2].line
+      value: I understand that you might be going through a tough time, but isolating
+        yourself completely won't make things better. It's essential to have a support
+        system and people to talk to.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[3].line
+      value: I don't know who to talk to, and I don't want to burden anyone with
+        my problems.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[4].line
+      value: It's okay to share your feelings with people who care about you. I'm
+        here for you, but it's also essential to have friends who understand what
+        you're going through.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[5].line
+      value: Thanks, Mom. I appreciate your support.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[6].line
+      value: I love you, and I want to see you happy. We'll work through this together,
+        step by step.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[0].characterName
+      value: Zephyr
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[1].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[2].characterName
+      value: Zephyr
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[3].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[4].characterName
+      value: Zephyr
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[5].characterName
+      value: Aetherwyn
+      objectReference: {fileID: 0}
+    - target: {fileID: 3812093933247384980, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
+      propertyPath: dialogueLines.Array.data[6].characterName
+      value: Zephyr
+      objectReference: {fileID: 0}
     - target: {fileID: 3812093933345418663, guid: 4683036e840294ae18c46aae4f66dced, type: 3}
       propertyPath: m_Name
       value: GoodWayCanvas

@@ -233,7 +233,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
       propertyPath: dialogueLines.Array.size
-      value: 10
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
       propertyPath: dialogueLines.Array.data[0].line
@@ -249,34 +249,33 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
       propertyPath: dialogueLines.Array.data[2].line
-      value: Ah, don't worry about it. It's probably just typical teenage mood swings.
-        You'll get over it soon enough. Now, let's talk about your grades in school.
-      objectReference: {fileID: 0}
-    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
-      propertyPath: dialogueLines.Array.data[3].line
-      value: I don't know, Dad. It's not just a passing mood. I've been feeling really
-        down for a while now.
-      objectReference: {fileID: 0}
-    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
-      propertyPath: dialogueLines.Array.data[4].line
       value: Come on, it can't be that bad. You're young, and everyone goes through
         ups and downs. You just need to shake it off and get back to your normal
         self.
       objectReference: {fileID: 0}
     - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
-      propertyPath: dialogueLines.Array.data[5].line
+      propertyPath: dialogueLines.Array.data[3].line
       value: But it's not that easy. I feel so alone and overwhelmed.
       objectReference: {fileID: 0}
     - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
-      propertyPath: dialogueLines.Array.data[6].line
+      propertyPath: dialogueLines.Array.data[4].line
       value: You're just being dramatic. Life isn't always easy, and you need to
         learn to handle your problems without making a big fuss about it. Besides,
         I've got my own issues to deal with, and I can't be bothered with this right
         now.
       objectReference: {fileID: 0}
     - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
-      propertyPath: dialogueLines.Array.data[7].line
+      propertyPath: dialogueLines.Array.data[5].line
       value: (Feeling dismissed and hurt) I thought you would understand...
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[6].line
+      value: Ah, don't worry about it. It's probably just typical teenage mood swings.
+        You'll get over it soon enough. Now, let's talk about your grades in school.
+      objectReference: {fileID: 0}
+    - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
+      propertyPath: dialogueLines.Array.data[7].line
+      value: (Feeling invalidated and alone) Okay, fine...
       objectReference: {fileID: 0}
     - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
       propertyPath: dialogueLines.Array.data[8].line
@@ -287,7 +286,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
       propertyPath: dialogueLines.Array.data[9].line
-      value: (Feeling invalidated and alone) Okay, fine...
+      value: I don't know, Dad. It's not just a passing mood. I've been feeling really
+        down for a while now.
       objectReference: {fileID: 0}
     - target: {fileID: 4476022138673873233, guid: d7e471c2c97a342689eed60f13bd2657, type: 3}
       propertyPath: dialogueLines.Array.data[0].characterName
